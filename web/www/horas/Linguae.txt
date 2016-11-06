@@ -3,3 +3,4 @@ Magyar
 Italiano
 Deutsch
 Polski
+Español
